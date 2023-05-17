@@ -1,0 +1,10 @@
+Employee Recruitment System
+functional  requirements:-
+	Administrators can create and manage job postings, including specifying job details, requirements, and application deadlines.
+	Candidates can search for job vacancies, view job descriptions, and submit applications.
+    	Candidates can create profiles with their personal information, education, work experience, and upload resumes.
+	Administrators and hiring managers can review and evaluate candidate applications, including resumes, cover letters, and additional documents.
+    	Administrators and hiring managers can provide feedback on applications and schedule interviews.
+    	Administrators can update the status of applications and communicate with candidates via email or notifications.
+    	Administrators can generate reports and analytics on recruitment activities.
+	

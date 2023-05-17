@@ -1,0 +1,22 @@
+the main entities typically found in an employee recruitment system:
+
+    Job Position
+        Represents a specific job role or position within the organization.
+        contains position id, title, department, responsibilities, qualification,experience.
+
+    Job Posting
+        Represents a job position 
+        Contains details about position id ,job description,location, skills.
+
+    Candidate
+        Includes name,email,mobno,qualification,experience.
+
+    Application
+        Represents a candidate's application for a job.
+        Contains information such as the candidate ID, Applicatin id , resume, documents.
+
+    Interview
+        Represents an interview session conducted as part of the recruitment process.
+        Includes details such as the interview no, date, time, location.
+   
+   
